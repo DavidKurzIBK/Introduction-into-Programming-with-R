@@ -4,6 +4,27 @@
 # Pool price exercise (tinytests)
 # -----------------------------------------------
 
+length = 11.5
+width = 6.0 
+depth = 1.8
+
+
+pool_price <- function(length,width,depth,price_per_cubic = 1.5912){
+  # Sanity: 
+  stopifnot(is.numeric(length))
+  stopifnot(is.numeric(width))
+  stopifnot(is.numeric(depth))
+  stopifnot(is.numeric(price_per_cubic))
+  # estimation of volume
+  volume <- length*width*depth
+  #estimation of price 
+  price <- volume*price_per_cubic
+  # specific output sections: 
+  res = c(volume = volume, price = price)
+  return(res)
+}
+
+
 # BASIC VERSION
 
 # Checking the artibutes of the return object 

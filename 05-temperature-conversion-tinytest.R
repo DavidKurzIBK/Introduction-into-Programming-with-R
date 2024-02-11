@@ -4,6 +4,26 @@
 # Temperature conversion exercise (tinytests)
 # -----------------------------------------------
 
+celsius_to_fahrenheit <- function(temp_c){
+  
+  #sanity chechks: 
+  stopifnot(is.numeric(temp_c))
+  
+  # calculation:
+  temp_fahrenheit <- temp_c * 9 / 5 + 32
+  return(as.numeric(temp_fahrenheit))
+  }
+
+
+fahrenheit_to_celsius <- function(temp_f){
+  
+  temp_celsius <- (temp_f - 32) * 5 / 9
+  return(as.numeric(temp_celsius))
+}
+
+temp_c <- 180L
+
+
 library('tinytest')
 
 # definition of function
