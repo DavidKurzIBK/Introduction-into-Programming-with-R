@@ -1,0 +1,38 @@
+@ -------------------------------------
+@ National postal service revenue
+@ Annual revenue in million euros
+@ Source: https://data.europa.eu/euodp/de/data/dataset/h6KjxlAPsMePkCHm8yYFQ/resource/b02efe87-769d-4a16-a9ed-c85d33ef241a
+@ -------------------------------------
+FREQ,UNIT,GEO,year2004,year2005,year2006,year2007,year2008,year2009,year2010,year2011
+annual,MIO EUR,AT,1668,1702,1736,1800,:missing:,5,:missing:,:missing:
+annual,MIO EUR,BE,2000,1973,2091,2144,2217,2200,2239,2364
+annual,MIO EUR,BG,28,:missing:,2,7,7,2,7,5
+annual,MIO EUR,CY,29,30,32,30,31,30,39,32
+annual,MIO EUR,CZ,396,468,:missing:,:missing:,:missing:,:missing:,:missing:,:missing:
+annual,MIO EUR,DE,14076,13786,13300,13000,13500,12200,12100,12200
+annual,MIO EUR,DK,1482,1353,1571,1621,1617,1511,1413,1298
+annual,MIO EUR,EE,41,35,36,44,51,41,36,36
+annual,MIO EUR,EL,401,403,416,430,447,448,416,370
+annual,MIO EUR,ES,1854,1920,1770,1870,1928,1833,1771,1946
+annual,MIO EUR,EU27,56861,57553,58150,59187,39522,38160,37118,31391
+annual,MIO EUR,FI,1035,1122,1157,1224,:missing:,:missing:,:missing:,:missing:
+annual,MIO EUR,FR,11998,12429,12585,12936,:missing:,:missing:,:missing:,:missing:
+annual,MIO EUR,HR,114,124,129,135,141,160,153,147
+annual,MIO EUR,HU,268,302,317,354,389,357,367,372
+annual,MIO EUR,IE,515,544,594,646,629,581,552,:missing:
+annual,MIO EUR,IS,52,63,64,71,35,27,29,30
+annual,MIO EUR,IT,3973,4047,4849,5019,:missing:,:missing:,:missing:,:missing:
+annual,MIO EUR,LT,19,22,37,38,43,39,36,39
+annual,MIO EUR,LU,146,149,146,147,147,:missing:,:missing:,:missing:
+annual,MIO EUR,LV,19,20,31,29,38,53,35,31
+annual,MIO EUR,MK,:missing:,:missing:,21,22,23,23,:missing:,:missing:
+annual,MIO EUR,MT,:missing:,17,19,20,20,20,22,:missing:
+annual,MIO EUR,NL,2660,2647,2596,2551,2751,2658,2538,2429
+annual,MIO EUR,NO,1103,1151,1164,1214,:missing:,:missing:,:missing:,:missing:
+annual,MIO EUR,PL,921,1109,1207,1300,1476,1239,1307,1255
+annual,MIO EUR,PT,607,619,621,641,648,613,593,565
+annual,MIO EUR,RO,:missing:,1,3,3,:missing:,6,9,4
+annual,MIO EUR,SE,2753,2723,2670,2736,2795,2184,2284,2277
+annual,MIO EUR,SI,128,143,151,152,174,169,174,183
+annual,MIO EUR,SK,:missing:,117,132,191,168,155,140,:missing:
+annual,MIO EUR,UK,9837,9899,9957,10146,10197,8995,9093,:missing:
